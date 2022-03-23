@@ -1,13 +1,10 @@
-# README
-## This is the README for your extension "v-dark"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+<p align="center" width="200">
+   <img align="center" width="100" src="https://raw.githubusercontent.com/BraianVaylet/v-dark-theme/main/images/logo.png" />   
+</p>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+# V dark Theme
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## 👉 [braianvaylet.dev/](https://braianvaylet.dev/)
 
-**Enjoy!**
+Hola 👋! Mi nombre es Braian Vaylet y soy un desarrollador autodidacta amante de las tecnologías web, pueden ingresar a mi web y conocerme mejor (braianvaylet.dev)[https://braianvaylet.dev/].
+
