@@ -3,6 +3,20 @@
     "displayName": "V Dark",
     "description": "V Dark Theme!",
     "version": "0.0.1",
+    "publisher": "BraianVaylet",
+    "icon": "profile-square-150px.jpg",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/thecodercoder/codercoder-dark-theme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "v dark",
+        "v",
+        "vdark",
+        "braian vaylet"
+    ],
     "engines": {
         "vscode": "^1.65.0"
     },
