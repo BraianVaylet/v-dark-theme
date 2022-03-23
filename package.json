@@ -1,7 +1,7 @@
 {
-    "name": "hive-dark",
-    "displayName": "Hive Dark",
-    "description": "Hive dark theme 🐝",
+    "name": "v-dark",
+    "displayName": "V Dark",
+    "description": "V Dark Theme!",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.65.0"
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Hive Dark",
+                "label": "V Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Hive Dark-color-theme.json"
+                "path": "./themes/V Dark-color-theme.json"
             }
         ]
     }
