@@ -4,10 +4,10 @@
     "description": "V Dark Theme!",
     "version": "0.0.1",
     "publisher": "BraianVaylet",
-    "icon": "profile-square-150px.jpg",
+    "icon": "logo-v-dark150px.png",
     "repository": {
     "type": "git",
-    "url": "https://github.com/thecodercoder/codercoder-dark-theme"
+    "url": "https://github.com/BraianVaylet/v-dark-theme"
     },
     "keywords": [
         "theme",
