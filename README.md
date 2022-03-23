@@ -1,5 +1,5 @@
 <p align="center" width="200">
-   <img align="center" width="100" src="https://raw.githubusercontent.com/BraianVaylet/v-dark-theme/main/images/logo-v-dark150px.png" />   
+   <img align="center" width="100" src="https://raw.githubusercontent.com/BraianVaylet/v-dark-theme/main/logo-v-dark150px.png" />   
 </p>
 
 # V dark Theme
