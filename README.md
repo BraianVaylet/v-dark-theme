@@ -4,9 +4,7 @@
 
 # V dark Theme
 
-## 👉 [braianvaylet.dev/](https://braianvaylet.dev/)
-
-Hola 👋! Mi nombre es Braian Vaylet y soy un desarrollador autodidacta amante de las tecnologías web, pueden ingresar a mi web y conocerme mejor (braianvaylet.dev)[https://braianvaylet.dev/].
+Hola 👋! Mi nombre es Braian Vaylet y soy un desarrollador autodidacta amante de las tecnologías web, pueden ingresar a mi web y conocerme mejor [braianvaylet.dev/](https://braianvaylet.dev/).
 
 😁 Les dejo mi theme que utilizo en mi día a día. Espero que lo disfruten!
 
