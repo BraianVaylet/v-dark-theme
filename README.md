@@ -4,11 +4,13 @@
 
 # V dark Theme
 
-## [Marketplace VSCode](https://marketplace.visualstudio.com/items?itemName=BraianVaylet.v-dark)
-
-Hello! My name is Braian Vaylet and I am a self-taught developer who loves web technologies. You can enter my website and get to know me better [braianvaylet.dev/](https://braianvaylet.dev/).
+Hello! My name is Braian Vaylet and I am a self-taught developer who loves web technologies. You can enter my website and get to know me better... 
 
 😁 I leave you my theme that I use in my day to day. Hope you enjoy!
+
+### 👉 [Marketplace VSCode](https://marketplace.visualstudio.com/items?itemName=BraianVaylet.v-dark)
+
+### 👉 [braianvaylet.dev/](https://braianvaylet.dev/)
 
 ## Color palette:
 
