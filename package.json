@@ -1,8 +1,8 @@
 {
     "name": "v-dark",
     "displayName": "V Dark",
-    "description": "V Dark Theme!",
-    "version": "0.0.2",
+    "description": "A Visual Studio Code theme based on my web braianvaylet.dev",
+    "version": "1.0.2",
     "publisher": "BraianVaylet",
     "icon": "logo-v-dark150px.png",
     "repository": {
@@ -13,8 +13,8 @@
         "theme",
         "dark theme",
         "v dark",
-        "v",
         "vdark",
+        "v",
         "braian vaylet"
     ],
     "engines": {
