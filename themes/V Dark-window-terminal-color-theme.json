@@ -1,0 +1,23 @@
+{
+  "background": "#171923",
+  "black": "#101218",
+  "blue": "#33FFB1",
+  "brightBlack": "#364259",
+  "brightBlue": "#B33BF9",
+  "brightCyan": "#33FFB1",
+  "brightGreen": "#B33BF9",
+  "brightPurple": "#B33BF9",
+  "brightRed": "#F56565",
+  "brightWhite": "#BFC8D9",
+  "brightYellow": "#F6E05E",
+  "cursorColor": "#33FFB1",
+  "cyan": "#66FFC4",
+  "foreground": "#7385AB",
+  "green": "#33FFB1",
+  "name": "V Dark",
+  "purple": "#B33BF9",
+  "red": "#F56565",
+  "selectionBackground": "#66FFC4",
+  "white": "#BFC8D9",
+  "yellow": "#F6E05E"
+}
