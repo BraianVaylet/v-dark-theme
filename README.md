@@ -8,9 +8,9 @@ Hello! My name is Braian Vaylet and I am a self-taught developer who loves web t
 
 😁 I leave you my theme that I use in my day to day. Hope you enjoy!
 
-### 🌌 [Marketplace VSCode](https://marketplace.visualstudio.com/items?itemName=BraianVaylet.v-dark)
+### 🚀 [WEBSITE](https://braianvaylet.dev/themes/vdark)
 
-### 🚀 [braianvaylet.dev](https://braianvaylet.dev/)
+### 🛒 [Marketplace VSCode](https://marketplace.visualstudio.com/items?itemName=BraianVaylet.v-dark)
 
 ## Color palette:
 
