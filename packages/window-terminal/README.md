@@ -10,8 +10,6 @@ Hello! My name is Braian Vaylet and I am a self-taught developer who loves web t
 
 ### 🚀 [WEBSITE](https://braianvaylet.dev/themes/vdark)
 
-### 🛒 [Marketplace VSCode](https://marketplace.visualstudio.com/items?itemName=BraianVaylet.v-dark)
-
 ## Color palette
 
 <p align="center">
@@ -20,14 +18,4 @@ Hello! My name is Braian Vaylet and I am a self-taught developer who loves web t
 
 ## Screenshots
 
-### VSCode Theme - [Link](https://github.com/BraianVaylet/v-dark-theme/blob/main/themes/V%20Dark-color-theme.json)
-
-<p align="center">
-   <img align="center" width="100%" src="https://raw.githubusercontent.com/BraianVaylet/v-dark-theme/main/screenshot.png" />
-</p>
-
 ### Windows Terminal Theme - [Link](https://github.com/BraianVaylet/v-dark-theme/blob/main/window-terminal/V%20Dark-window-terminal-color-theme.json)
-
-<p align="center">
-   <img align="center" width="100%" src="https://raw.githubusercontent.com/BraianVaylet/v-dark-theme/main/screenshot2.png" />
-</p>

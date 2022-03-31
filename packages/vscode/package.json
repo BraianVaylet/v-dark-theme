@@ -2,12 +2,16 @@
     "name": "v-dark",
     "displayName": "V Dark",
     "description": "A Visual Studio Code theme based on my web braianvaylet.dev",
-    "version": "1.0.4",
+    "version": "1.1.4",
     "publisher": "BraianVaylet",
     "icon": "logo-v-dark150px.png",
     "repository": {
     "type": "git",
-    "url": "https://github.com/BraianVaylet/v-dark-theme"
+    "url": "https://github.com/BraianVaylet/v-dark-theme",
+    "scripts": {
+        "package": "vsce package",
+        "publish": "vsce publish"
+    }
     },
     "keywords": [
         "theme",
