@@ -20,13 +20,13 @@ Hello! My name is Braian Vaylet and I am a self-taught developer who loves web t
 
 ## Screenshots
 
-### VSCode Theme - [Link](https://github.com/BraianVaylet/v-dark-theme/blob/main/themes/V%20Dark-color-theme.json)
+### VSCode Theme - [Link](https://github.com/BraianVaylet/v-dark-theme/tree/main/packages/vscode)
 
 <p align="center">
    <img align="center" width="100%" src="https://raw.githubusercontent.com/BraianVaylet/braianvaylet-website-blog/main/public/images/themes/vdark/vsc-img3.png" />
 </p>
 
-### Windows Terminal Theme - [Link](https://github.com/BraianVaylet/v-dark-theme/blob/main/window-terminal/V%20Dark-window-terminal-color-theme.json)
+### Windows Terminal Theme - [Link](https://github.com/BraianVaylet/v-dark-theme/tree/main/packages/window-terminal)
 
 <p align="center">
    <img align="center" width="100%" src="https://raw.githubusercontent.com/BraianVaylet/braianvaylet-website-blog/main/public/images/themes/vdark/wt-img1.png" />
