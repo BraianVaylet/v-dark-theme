@@ -2,7 +2,9 @@
    <img align="center" width="100" src="https://raw.githubusercontent.com/BraianVaylet/v-dark-theme/main/packages/vscode/logo-v-dark150px.png" />
 </p>
 
-# V Dark Theme
+---
+
+# V Dark Theme - Visual Studio Code
 
 ### 🚀 [WEBSITE](https://braianvaylet.dev/themes/vdark)
 
