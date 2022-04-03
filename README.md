@@ -3,9 +3,9 @@
    <h1 align="center">V Dark Theme</h1>
 </p>
 
-Hello! My name is Braian Vaylet and I am a self-taught developer who loves web technologies. You can enter my website and get to know me better...
+Hello! My name is Braian Vaylet and I am a self-taught developer who loves web technologies.
 
-😁 I leave you my theme that I use in my day to day. Hope you enjoy!
+😁 I leave you my theme inspired by my website.
 
 ### 🚀 [WEBSITE](https://braianvaylet.dev/themes/vdark)
 
