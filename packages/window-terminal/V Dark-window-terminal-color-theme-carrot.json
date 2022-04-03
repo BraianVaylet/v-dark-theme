@@ -1,0 +1,23 @@
+{
+  "background": "#101219",
+  "black": "#101218",
+  "blue": "#ed8936",
+  "brightBlack": "#364259",
+  "brightBlue": "#48bb78",
+  "brightCyan": "#ed8936",
+  "brightGreen": "#48bb78",
+  "brightPurple": "#48bb78",
+  "brightRed": "#F56565",
+  "brightWhite": "#BFC8D9",
+  "brightYellow": "#F6E05E",
+  "cursorColor": "#ed8936",
+  "cyan": "#ffaa3a",
+  "foreground": "#7385AB",
+  "green": "#ed8936",
+  "name": "V Dark Carrot",
+  "purple": "#48bb78",
+  "red": "#F56565",
+  "selectionBackground": "#ffaa3a",
+  "white": "#BFC8D9",
+  "yellow": "#F6E05E"
+}

@@ -33,6 +33,16 @@
                 "label": "V Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/V Dark-color-theme.json"
+            },
+            {
+                "label": "V Dark Carrot",
+                "uiTheme": "vs-dark",
+                "path": "./themes/V Dark-color-theme-carrot.json"
+            },
+            {
+                "label": "V Dark Lemon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/V Dark-color-theme-lemon.json"
             }
         ]
     }

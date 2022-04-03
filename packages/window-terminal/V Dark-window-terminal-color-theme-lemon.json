@@ -1,0 +1,23 @@
+{
+  "background": "#101219",
+  "black": "#101218",
+  "blue": "#a6ff00",
+  "brightBlack": "#364259",
+  "brightBlue": "#36f213",
+  "brightCyan": "#a6ff00",
+  "brightGreen": "#36f213",
+  "brightPurple": "#36f213",
+  "brightRed": "#F56565",
+  "brightWhite": "#BFC8D9",
+  "brightYellow": "#F6E05E",
+  "cursorColor": "#a6ff00",
+  "cyan": "#d8ff00",
+  "foreground": "#7385AB",
+  "green": "#a6ff00",
+  "name": "V Dark Lemon",
+  "purple": "#36f213",
+  "red": "#F56565",
+  "selectionBackground": "#d8ff00",
+  "white": "#BFC8D9",
+  "yellow": "#F6E05E"
+}
