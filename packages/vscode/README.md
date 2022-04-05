@@ -12,7 +12,7 @@
 ### 🛒 [Marketplace VSCode](https://marketplace.visualstudio.com/items?itemName=BraianVaylet.v-dark)
 
 <p align="center">
-   <img align="center" width="100%" src="https://github.com/BraianVaylet/v-dark-theme/blob/main/public/images/screenshots/vscode-sceen1.png" />
+   <img align="center" width="100%" src="https://raw.githubusercontent.com/BraianVaylet/v-dark-theme/main/public/images/screenshots/vscode-sceen1.png" />
 </p>
 
 
