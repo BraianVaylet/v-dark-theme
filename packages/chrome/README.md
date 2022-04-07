@@ -9,7 +9,7 @@
 ### 🚀 [WEBSITE](https://braianvaylet.dev/themes/vdark)
 
 <p align="center">
-   <img align="center" width="100%" src="https://raw.githubusercontent.com/BraianVaylet/v-dark-theme/main/public/images/screenshots/chrome-sceen1.png" />
+   <img align="center" width="100%" src="https://raw.githubusercontent.com/BraianVaylet/v-dark-theme/main/public/images/screenshots/chrome-screen1.png" />
 </p>
 
 # How to use
