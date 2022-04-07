@@ -1,7 +1,6 @@
 <p align="center" width="200">
-   <img align="center" width="100" src="https://raw.githubusercontent.com/BraianVaylet/v-dark-theme/main/public/images/logos/logo.png" />   
+   <img align="center" width="100" src="https://raw.githubusercontent.com/BraianVaylet/v-dark-theme/main/public/images/logos/logo.png" />
 </p>
-
 
 ---
 
@@ -12,9 +11,8 @@
 ### 🛒 [Marketplace VSCode](https://marketplace.visualstudio.com/items?itemName=BraianVaylet.v-dark)
 
 <p align="center">
-   <img align="center" width="100%" src="https://raw.githubusercontent.com/BraianVaylet/v-dark-theme/main/public/images/screenshots/vscode-sceen1.png" />
+   <img align="center" width="100%" src="https://raw.githubusercontent.com/BraianVaylet/v-dark-theme/main/public/images/screenshots/vscode-img1.png" />
 </p>
-
 
 <br/>
 <br/>
@@ -54,7 +52,3 @@
 <p align="center">
    <img align="center" width="50%" src="https://raw.githubusercontent.com/BraianVaylet/v-dark-theme/main/public/images/colors/vscode-lemon-coolors.png" />
 </p>
-
-
-
-
