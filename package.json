@@ -1,0 +1,32 @@
+{
+  "name": "v-dark-theme",
+  "version": "1.2.7",
+  "description": "V Dark Theme",
+  "main": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BraianVaylet/v-dark-theme.git"
+  },
+  "keywords": [
+    "v dark",
+    "v dark theme",
+    "theme",
+    "dark",
+    "dark theme",
+    "vscode",
+    "chrome",
+    "firefox",
+    "windows terminal",
+    "terminal",
+    "slack",
+    "braian vaylet",
+    "vaylet"
+  ],
+  "author": "Braian Vaylet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BraianVaylet/v-dark-theme/issues"
+  },
+  "homepage": "https://github.com/BraianVaylet/v-dark-theme#readme"
+}

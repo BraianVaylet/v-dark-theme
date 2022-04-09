@@ -43,6 +43,12 @@ Hello! My name is Braian Vaylet and I am a self-taught developer who loves web t
    <img align="center" width="100%" src="https://raw.githubusercontent.com/BraianVaylet/v-dark-theme/main/public/images/screenshots/chrome-img1.png" />
 </p>
 
+### Firefox - [Link](https://github.com/BraianVaylet/v-dark-theme/tree/main/packages/firefox)
+
+<p align="center">
+   <img align="center" width="100%" src="https://raw.githubusercontent.com/BraianVaylet/v-dark-theme/main/public/images/screenshots/firefox-img1.png" />
+</p>
+
 ## 🌈 Variants
 
 <p align="center" width="200">

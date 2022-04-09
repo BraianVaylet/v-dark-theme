@@ -4,7 +4,7 @@
 
 ---
 
-# V Dark Theme - Chrome Terminal
+# V Dark Theme - Chrome
 
 ### 🚀 [WEBSITE](https://braianvaylet.dev/themes/vdark)
 
