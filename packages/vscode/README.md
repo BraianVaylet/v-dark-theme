@@ -8,7 +8,7 @@
 
 ### 🚀 [WEBSITE](https://braianvaylet.dev/themes/vdark)
 
-### 🛒 [Marketplace VSCode](https://marketplace.visualstudio.com/items?itemName=BraianVaylet.v-dark)
+### 🛒 [Download](https://marketplace.visualstudio.com/items?itemName=BraianVaylet.v-dark)
 
 <p align="center">
    <img align="center" width="100%" src="https://raw.githubusercontent.com/BraianVaylet/v-dark-theme/main/public/images/screenshots/vscode-img1.png" />
