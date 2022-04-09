@@ -9,8 +9,6 @@ Hello! My name is Braian Vaylet and I am a self-taught developer who loves web t
 
 ### 🚀 [WEBSITE](https://braianvaylet.dev/themes/vdark)
 
-### 🛒 [Marketplace VSCode](https://marketplace.visualstudio.com/items?itemName=BraianVaylet.v-dark)
-
 ## 🎨 Color palette
 
 <p align="center">
@@ -20,6 +18,8 @@ Hello! My name is Braian Vaylet and I am a self-taught developer who loves web t
 ## 📷 Screenshots
 
 ### VSCode Theme - [Link](https://github.com/BraianVaylet/v-dark-theme/tree/main/packages/vscode)
+
+#### 🛒 [Download](https://marketplace.visualstudio.com/items?itemName=BraianVaylet.v-dark)
 
 <p align="center">
    <img align="center" width="100%" src="https://github.com/BraianVaylet/v-dark-theme/blob/main/public/images/screenshots/vscode-img1.png" />
@@ -44,6 +44,8 @@ Hello! My name is Braian Vaylet and I am a self-taught developer who loves web t
 </p>
 
 ### Firefox - [Link](https://github.com/BraianVaylet/v-dark-theme/tree/main/packages/firefox)
+
+#### 🛒 [Download](https://addons.mozilla.org/en-US/firefox/addon/v-dark-theme/)
 
 <p align="center">
    <img align="center" width="100%" src="https://raw.githubusercontent.com/BraianVaylet/v-dark-theme/main/public/images/screenshots/firefox-img1.png" />
