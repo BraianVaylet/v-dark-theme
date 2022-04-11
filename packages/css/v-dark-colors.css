@@ -1,0 +1,19 @@
+:root {
+  --black: #08090c;
+  --grey-darkest: #101219;
+  --grey-darker: #364259;
+  --grey-dark: #7385ab;
+  --grey: #bfc8d9;
+  --white: #ffffff;  
+  --green: #18d89b;
+  --green-light: #19fdb5;
+  --yellow: #f6e05e;
+  --pink: #ff6aa3;
+  --red: 	#f56565;
+  --primary: #19fdb5;
+  --secondary: #ff6aa3;  
+  
+  --warning-color: var(--yellow);
+  --success-color: var(--green);
+  --error-color: var(--red);
+}

@@ -1,0 +1,149 @@
+/**
+ * MIT License
+ * Copyright (c) 2022 Braian Vaylet 
+ */
+
+code[class*="language-"],
+pre[class*="language-"] {
+  color: #7385AB;
+  font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 1.5;
+  font-size: 1em;
+
+  -moz-tab-size: 4;
+  -o-tab-size: 4;
+  tab-size: 4;
+
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+}
+
+pre[class*="language-"]::-moz-selection,
+pre[class*="language-"] ::-moz-selection,
+code[class*="language-"]::-moz-selection,
+code[class*="language-"] ::-moz-selection {
+  text-shadow: none;
+  background: rgba(16, 18, 25, 0.99);
+}
+
+pre[class*="language-"]::selection,
+pre[class*="language-"] ::selection,
+code[class*="language-"]::selection,
+code[class*="language-"] ::selection {
+  text-shadow: none;
+  background: rgba(16, 18, 25, 0.99);
+}
+
+@media print {
+  code[class*="language-"],
+  pre[class*="language-"] {
+    text-shadow: none;
+  }
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+  padding: 1em;
+  margin: 0.5em 0;
+  overflow: auto;
+}
+
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+  color: #7385AB;
+  background: #08090C;
+}
+
+:not(pre) > code[class*="language-"] {
+  padding: 0.1em;
+  border-radius: 0.3em;
+  white-space: normal;
+}
+
+.token.comment,
+.token.prolog,
+.token.cdata {
+  color: #364259;
+  font-style: italic;
+}
+
+.token.punctuation {
+  color: #7385AB;
+}
+
+.namespace {
+  color: white;
+}
+
+.token.deleted {
+  color: #F56565;
+  font-style: italic;
+}
+
+.token.symbol,
+.token.property {
+  color: rgb(225, 255, 0);
+}
+
+.token.tag,
+.token.keyword {
+  color: #19FDB5;
+}
+
+.token.regex,
+.token.important,
+.token.variable
+.token.url,
+.token.string
+.token.number,
+.token.boolean {
+  color: #FF6AA3;
+}
+
+.token.entity,
+.token.operator,
+.token.constant {
+  color: #7385AB;
+}
+
+.token.function,
+.token.builtin,
+.token.char {
+  color: white;
+}
+
+.token.attr-name,
+.token.inserted,
+.token.selector,
+.token.doctype {
+  color: #FF6AA3;
+  font-style: italic;
+}
+
+
+.language-css .token.string,
+.style .token.string {
+  color: #7385AB;
+}
+
+.token.class-name,
+.token.atrule,
+.token.attr-value {
+  color: white;
+}
+
+.token.important,
+.token.bold {
+  font-weight: bold;
+}
+
+.token.italic {
+  font-style: italic;
+}
